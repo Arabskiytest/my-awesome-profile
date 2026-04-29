@@ -12,4 +12,4 @@
 ---
 
 ### Моё фото
-![xD]("C:\Users\Anastasia\Desktop\my-awesome-profile\orig.webp")
+![xD](orig.jpg)
